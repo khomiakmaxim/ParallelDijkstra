@@ -1,0 +1,13 @@
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\bin\Debug\netcoreapp3.1\DijkstraParallel.exe
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\bin\Debug\netcoreapp3.1\DijkstraParallel.deps.json
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\bin\Debug\netcoreapp3.1\DijkstraParallel.runtimeconfig.json
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\bin\Debug\netcoreapp3.1\DijkstraParallel.runtimeconfig.dev.json
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\bin\Debug\netcoreapp3.1\DijkstraParallel.dll
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\bin\Debug\netcoreapp3.1\DijkstraParallel.pdb
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\obj\Debug\netcoreapp3.1\DijkstraParallel.csprojAssemblyReference.cache
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\obj\Debug\netcoreapp3.1\DijkstraParallel.AssemblyInfoInputs.cache
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\obj\Debug\netcoreapp3.1\DijkstraParallel.AssemblyInfo.cs
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\obj\Debug\netcoreapp3.1\DijkstraParallel.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\obj\Debug\netcoreapp3.1\DijkstraParallel.dll
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\obj\Debug\netcoreapp3.1\DijkstraParallel.pdb
+C:\Users\Maksym\source\repos\DijkstraParallel\DijkstraParallel\obj\Debug\netcoreapp3.1\DijkstraParallel.genruntimeconfig.cache
